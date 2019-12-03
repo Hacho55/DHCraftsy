@@ -1,0 +1,12 @@
+* {
+    font-family: 'Open Sans';
+}
+body {
+    background-image: url("../images/bg-2.png");
+}
+
+header {
+    background-color: pink;
+    width: 1140px;
+    margin: 5px 10px;
+}
